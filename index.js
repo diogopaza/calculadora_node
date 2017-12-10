@@ -1,6 +1,6 @@
 'use strict'
 
-console.log("Nossa calculadora vai começar aqui")
+module.exports = require('./bin/calculadora')
 
 
 
